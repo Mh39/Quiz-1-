@@ -1,0 +1,7 @@
+E:\tit\Tasks\Quiz 1\Move\Move\bin\Debug\Move.exe.config
+E:\tit\Tasks\Quiz 1\Move\Move\bin\Debug\Move.exe
+E:\tit\Tasks\Quiz 1\Move\Move\bin\Debug\Move.pdb
+E:\tit\Tasks\Quiz 1\Move\Move\obj\Debug\Move.csprojAssemblyReference.cache
+E:\tit\Tasks\Quiz 1\Move\Move\obj\Debug\Move.csproj.CoreCompileInputs.cache
+E:\tit\Tasks\Quiz 1\Move\Move\obj\Debug\Move.exe
+E:\tit\Tasks\Quiz 1\Move\Move\obj\Debug\Move.pdb

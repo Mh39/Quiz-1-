@@ -1,0 +1,14 @@
+E:\tit\Tasks\Quiz 1\Serializer\Serializer\bin\Debug\Serializer.exe.config
+E:\tit\Tasks\Quiz 1\Serializer\Serializer\bin\Debug\Serializer.exe
+E:\tit\Tasks\Quiz 1\Serializer\Serializer\bin\Debug\Serializer.pdb
+E:\tit\Tasks\Quiz 1\Serializer\Serializer\bin\Debug\Newtonsoft.Json.Bson.dll
+E:\tit\Tasks\Quiz 1\Serializer\Serializer\bin\Debug\Newtonsoft.Json.dll
+E:\tit\Tasks\Quiz 1\Serializer\Serializer\bin\Debug\Newtonsoft.Json.pdb
+E:\tit\Tasks\Quiz 1\Serializer\Serializer\bin\Debug\Newtonsoft.Json.xml
+E:\tit\Tasks\Quiz 1\Serializer\Serializer\bin\Debug\Newtonsoft.Json.Bson.pdb
+E:\tit\Tasks\Quiz 1\Serializer\Serializer\bin\Debug\Newtonsoft.Json.Bson.xml
+E:\tit\Tasks\Quiz 1\Serializer\Serializer\obj\Debug\Serializer.csprojAssemblyReference.cache
+E:\tit\Tasks\Quiz 1\Serializer\Serializer\obj\Debug\Serializer.csproj.CoreCompileInputs.cache
+E:\tit\Tasks\Quiz 1\Serializer\Serializer\obj\Debug\Serializer.csproj.CopyComplete
+E:\tit\Tasks\Quiz 1\Serializer\Serializer\obj\Debug\Serializer.exe
+E:\tit\Tasks\Quiz 1\Serializer\Serializer\obj\Debug\Serializer.pdb

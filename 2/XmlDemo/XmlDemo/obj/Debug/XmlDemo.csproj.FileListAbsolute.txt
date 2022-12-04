@@ -1,0 +1,7 @@
+E:\tit\Tasks\Quiz 1\XmlDemo\XmlDemo\obj\Debug\XmlDemo.csprojAssemblyReference.cache
+E:\tit\Tasks\Quiz 1\XmlDemo\XmlDemo\obj\Debug\XmlDemo.csproj.CoreCompileInputs.cache
+E:\tit\Tasks\Quiz 1\XmlDemo\XmlDemo\bin\Debug\XmlDemo.exe.config
+E:\tit\Tasks\Quiz 1\XmlDemo\XmlDemo\bin\Debug\XmlDemo.exe
+E:\tit\Tasks\Quiz 1\XmlDemo\XmlDemo\bin\Debug\XmlDemo.pdb
+E:\tit\Tasks\Quiz 1\XmlDemo\XmlDemo\obj\Debug\XmlDemo.exe
+E:\tit\Tasks\Quiz 1\XmlDemo\XmlDemo\obj\Debug\XmlDemo.pdb

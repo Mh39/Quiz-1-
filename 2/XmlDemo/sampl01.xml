@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Member xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>mohamed Hassan</Name>
+  <Email>mh0056592@gmail.com</Email>
+  <Age>22</Age>
+  <JoiningDate>2022-12-04T16:00:09.7300875+02:00</JoiningDate>
+  <IsPlatinumMember>false</IsPlatinumMember>
+</Member>
